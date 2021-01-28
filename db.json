@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "a045a073-b80a-4d4d-b748-3528e752bb14",
+      "name": "Ivan Ivanov",
+      "number": "111-222-333"
+    },
+    {
+      "id": "1b434152-9db0-45f6-b1a7-7097a44ccdcf",
+      "name": "Sergey Sergeev",
+      "number": "123-456-789"
+    },
+    {
+      "id": "290c02a7-8767-474a-8c6c-819baef2d92f",
+      "name": "Semen Semenov",
+      "number": "777-888-999"
+    }
+  ]
+}
